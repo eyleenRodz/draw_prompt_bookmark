@@ -26,7 +26,8 @@ ideas = [
     'un fragmento de un libro',
     'una derivada de un viejo dibujo',
     'una frase',
-    'un bodegon'
+    'un bodegon',
+    'tu rutina diaria'
 ];
 
 tec_seleccionada = tecnicas[Math.floor(Math.random() * (tecnicas.length - 2) )];
